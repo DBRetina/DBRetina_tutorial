@@ -1,1 +1,3 @@
 DBRetina
+rpy2
+pandas
