@@ -4,3 +4,6 @@ channels:
 dependencies:
   - pandas
   - r
+  - pip:
+    - DBRetina
+    - rpy2
